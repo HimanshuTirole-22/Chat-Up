@@ -2,9 +2,17 @@
 
 ## Chat-Up App
 
-Realtime chat app with websockets using Node.js, Express and Socket.io with Vanilla JS on the frontend with a custom UI.
+Real time chat application to communicate with your friends
 
-It allows users to discuss on the topics of their choice.
+It allows users to discuss on the topics of their choice
+
+Used Socket.io to manage real time web socket connections to a Node.js server
+
+Used HTML, CSS, Bootstrap, Vanilla Js on the frontend
+
+- Tech Stack: **Bootstrap** **JavaScript**  **Node.js**  **Express**  **Socket.io**
+
+
 
 ## Usage
 ```python
