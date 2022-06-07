@@ -10,9 +10,16 @@ Used Socket.io to manage real time web socket connections to a Node.js server
 
 Used HTML, CSS, Bootstrap, Vanilla Js on the frontend
 
-- Tech Stack: **Bootstrap** **JavaScript**  **Node.js**  **Express**  **Socket.io**
+## Tech Stack 
+**Bootstrap** 
 
+**JavaScript**  
 
+**Node.js**  
+
+**Express**  
+
+**Socket.io**
 
 ## Usage
 ```python
