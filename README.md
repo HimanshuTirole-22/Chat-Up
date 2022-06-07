@@ -17,7 +17,7 @@ Used HTML, CSS, Bootstrap, Vanilla Js on the frontend
 
 - **Node.js**  
 
-- **Express**  
+- **Express.js**  
 
 - **Socket.io**
 
