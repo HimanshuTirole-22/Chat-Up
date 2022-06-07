@@ -11,15 +11,15 @@ Used Socket.io to manage real time web socket connections to a Node.js server
 Used HTML, CSS, Bootstrap, Vanilla Js on the frontend
 
 ## Tech Stack 
-**Bootstrap** 
+- **Bootstrap** 
 
-**JavaScript**  
+- **JavaScript**  
 
-**Node.js**  
+- **Node.js**  
 
-**Express**  
+- **Express**  
 
-**Socket.io**
+- **Socket.io**
 
 ## Usage
 ```python
