@@ -17,9 +17,11 @@ Go to localhost:3000
 ## Features
 - Facility to select username/topic
 
-- Handled user connection/disconnection
+- Handled user connection/disconnection from the app
 
 - Sending messages in real time
+
+- Users of one room cannot see the users of other rooms
 
 ## Demo
 - Users can select any of the rooms based on their interest
